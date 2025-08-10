@@ -1,2 +1,1 @@
-# PCB_CubeSat
-PCB CubeSat
+# PCB CubeSat
